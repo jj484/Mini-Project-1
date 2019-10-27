@@ -8,7 +8,7 @@ Branch: a point from which a commit splits.
 
 Commit: a change to a file/files in a repository.
 
-Merge:
+Merge: a git command that combines a forked history back into a single history.
 
 Checkout: 
 
