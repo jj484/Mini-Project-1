@@ -9,5 +9,5 @@ rm: remove. Deletes files and directories from the system.
 history: Displays history of all commands user has done.
 Home directory and ~: Starting directories for systems. Helps manage separate files and directories.
 file paths in linux: Navigation of the system. Absolute paths display your current directory from your root, and relative paths display your destination directory from your current directory.
-Using the tab key to complete file paths
+Using the tab key to complete file paths: Autocomplete for files and directories. If the first three letters of a file or directory are typed in and do not match anything else in the directory, hitting tab will autocomplete the name of the file or directory.
 Using up and down arrow for history
