@@ -6,7 +6,7 @@ cp: copy. Copies files and directories while remaining independent of the origin
 pwd: print working directory. Displays the absolute path of the directory the user is currently in.
 mv: move. Moves files and directories to another area of the system.
 rm: remove. Deletes files and directories from the system.
-history
+history: Displays history of all commands user has done.
 Home directory and ~
 file paths in linux
 Using the tab key to complete file paths
