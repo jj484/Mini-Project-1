@@ -20,5 +20,5 @@ Remote Add / Remove / Show:
 
 Status: 
 
-Master Branch: 
+Master Branch: the main and default branch in a github project. 
 
