@@ -1,4 +1,4 @@
-Repository
+Repository: a file location that stores other files from a project.
 
 Clone: a copy of a repository that has a remote connection to the original project repository.
 
@@ -8,17 +8,17 @@ Branch: a point from which a commit splits.
 
 Commit: a change to a file/files in a repository.
 
-Merge
+Merge:
 
-Checkout
+Checkout: 
 
-Push
+Push: 
 
-Pull 
+Pull: 
 
-Remote Add / Remove / Show
+Remote Add / Remove / Show: 
 
-Status
+Status: 
 
-Master Branch
+Master Branch: 
 
