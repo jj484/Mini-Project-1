@@ -5,7 +5,7 @@ mkdir: make directory. Creates folders for holding files directly from command l
 cp: copy. Copies files and directories while remaining independent of the original file.
 pwd: print working directory. Displays the absolute path of the directory the user is currently in.
 mv: move. Moves files and directories to another area of the system.
-rm
+rm: remove. Deletes files and directories from the system.
 history
 Home directory and ~
 file paths in linux
