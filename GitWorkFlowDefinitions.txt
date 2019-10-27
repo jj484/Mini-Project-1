@@ -2,7 +2,7 @@ Repository
 Clone
 Fork
 Branch
-Commit
+Commit: a change to a file/files in a repository
 Merge
 Checkout
 Push
