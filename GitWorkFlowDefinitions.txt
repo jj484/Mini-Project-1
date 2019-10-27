@@ -14,10 +14,15 @@ Merge: a git command that combines a forked history back into a single history.
 Checkout: a git command that switches between branches. 
 
 Push: a git command that updates a remote version of a repository from a local version
+Usage: git push <repository-name> <branch-name>
 
 Pull: a git command that updates a local version of a repository from a remote version.
+Usage: git pull <remote-repository-name> <branch-name>
 
 Remote Add / Remove / Show: a git command that allows one to manage remote git repositories.
+Remote Add Usage: git remote add <remote-repository-name> <remote-repository-URL>
+Remote Remove Usage: git remote rm <remote-repository-name>
+Remote Show Usage: git remote -v
 
 Status: a git command that displays the current state of the working directory.  
 Usage: git status
