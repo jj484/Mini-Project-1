@@ -7,7 +7,7 @@ pwd: print working directory. Displays the absolute path of the directory the us
 mv: move. Moves files and directories to another area of the system.
 rm: remove. Deletes files and directories from the system.
 history: Displays history of all commands user has done.
-Home directory and ~
+Home directory and ~: Starting directories for systems. Helps manage separate files and directories.
 file paths in linux
 Using the tab key to complete file paths
 Using up and down arrow for history
