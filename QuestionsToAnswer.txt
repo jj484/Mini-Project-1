@@ -20,9 +20,9 @@ rm: remove. Deletes files and directories from the system.
 history: Displays history of all commands user has done.
   history (example output): 59 rm ThisDirectory/ || 58 mv ThisFile.txt ThatFile.txt ---> shows all commands the user has done.
   
-Home directory and ~: Starting directories for systems. Helps manage separate files and directories.
+Home directory and ~: Starting directories for systems and users. Helps manage separate files and directories.
   / ---> the forward slash indicates it is the root directory. It is the beginning of every absolute path in the system.
-  ~ ---> the tilde indicates that it is the beginning of the user account. The root takes precedence in absolute paths.
+  ~ ---> the tilde indicates that it is the user account directory. The root takes precedence in absolute paths.
   
 file paths in linux: Navigation of the system. Absolute paths display your current directory from your root, and relative paths display your destination directory from your current directory.
   /Users/Adam/Documents/Work ---> example file path. Starting from the root directory, going all the way down to the user's current working directory.
