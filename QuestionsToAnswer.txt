@@ -3,7 +3,7 @@ Questions to answer: What is it? Why do you do it? How do you do it?
 cd: change directory. Used for navigating your file system. 
 mkdir: make directory. Creates folders for holding files directly from command line.
 cp: copy. Copies files and directories while remaining independent of the original file.
-pwd
+pwd: print working directory. Displays the absolute path of the directory the user is currently in.
 mv
 rm
 history
