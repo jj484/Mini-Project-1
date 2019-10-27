@@ -27,3 +27,9 @@ Using up and down arrow for history: Navigation of all commands user has done. S
   cp ThisFile.txt ThatFile.txt ---> shows up on the command line again.
   *user hits down arrow key*
    ---> blank, just like it was originally.
+   
+   
+vi: mouse-less text editor with its own commands for creating text.
+  vi ThisFile.txt ---> either creates ThisFile.txt if it doesn't exist, or enters the file for editing if it does exist.
+command mode: the default mode when entering a file with vi. Uses a whole host of commands for editing and navigating a file.
+  :wq ---> when typed in command mode, vi will write the file to the system and subsequently quit the vi UI.
