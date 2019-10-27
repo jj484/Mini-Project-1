@@ -8,7 +8,8 @@ cp: copy. Copies files and directories while remaining independent of the origin
   cp ThisFile.txt ThatFile.txt ---> copies the contents of ThisFile.txt to ThatFile.txt without changing ThisFile.txt.
 pwd: print working directory. Displays the absolute path of the directory the user is currently in.
   pwd (example output): /Users/Adam/Documents/Work ---> shows the user where they are at in relation to the root (starting directory).
-mv: move. Moves files and directories to another area of the system.
+mv: move. Moves files and directories to another area of the system. Can overrite an existing file destination or create one if it doesn't exist.
+  mv This.File.txt ThatFile.txt ---> if ThatFile.txt didn't already exist on the system, the command creates it. If it did already exist with different content from ThisFile.txt, it will be overwritten by the contents of ThisFile.txt.
 rm: remove. Deletes files and directories from the system.
 history: Displays history of all commands user has done.
 Home directory and ~: Starting directories for systems. Helps manage separate files and directories.
