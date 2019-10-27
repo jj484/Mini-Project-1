@@ -4,7 +4,7 @@ Clone: a copy of a repository that has a remote connection to the original proje
 
 Fork: a copy of a repository that does not affect the original project repository.
 
-Branch
+Branch: a point from which a commit splits. 
 
 Commit: a change to a file/files in a repository.
 
