@@ -1,12 +1,24 @@
 Repository
-Clone
-Fork
+
+Clone: a copy of a repository.
+
+Fork:
+
 Branch
-Commit: a change to a file/files in a repository
+
+Commit: a change to a file/files in a repository.
+
 Merge
+
 Checkout
+
 Push
+
 Pull 
+
 Remote Add / Remove / Show
+
 Status
+
 Master Branch
+
