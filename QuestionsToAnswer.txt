@@ -33,6 +33,9 @@ vi: mouse-less text editor with its own commands for creating text.
   vi ThisFile.txt ---> either creates ThisFile.txt if it doesn't exist, or enters the file for editing if it does exist.
 command mode: the default mode when entering a file with vi. Uses a whole host of commands for editing and navigating a file.
   i ---> typing the "i" key will switch the user from command mode to insert mode (done right as the key is hit, so the actual letter "i" will not show up from command mode).
+  dd ---> delete a line.
+  yy ---> copy a line.
+  /*** ---> anything typed after the forward slash will act as a text finder for the specified word or phrase (asterisks are placeholders).
   :wq ---> when typed in command mode, vi will write the file to the system and subsequently quit the vi UI.
 insert mode: used for writing to files and making edits directly in the text.
   *user types the "i" key from command mode to change into insert mode*
