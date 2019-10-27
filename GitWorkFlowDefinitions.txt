@@ -1,8 +1,8 @@
 Repository
 
-Clone: a copy of a repository.
+Clone: a copy of a repository that has a remote connection to the original project repository.
 
-Fork:
+Fork: a copy of a repository that does not affect the original project repository.
 
 Branch
 
