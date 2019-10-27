@@ -2,25 +2,34 @@ Questions to answer: What is it? Why do you do it? How do you do it?
 
 cd: change directory. Used for navigating your file system. 
   cd Documents/Work ---> moves you to the Documents directory, which then moves you to the Work directory.
+  
 mkdir: make directory. Creates folders for holding files directly from command line.
   mkdir New ---> creates a new directory called New in your current directory.
 cp: copy. Copies files and directories while remaining independent of the original file.
   cp ThisFile.txt ThatFile.txt ---> copies the contents of ThisFile.txt to ThatFile.txt without changing ThisFile.txt.
+  
 pwd: print working directory. Displays the absolute path of the directory the user is currently in.
   pwd (example output): /Users/Adam/Documents/Work ---> shows the user where they are at in relation to the root (starting directory).
+  
 mv: move. Moves files and directories to another area of the system. Can overrite an existing file destination or create one if it doesn't exist.
   mv ThisFile.txt ThatFile.txt ---> if ThatFile.txt didn't already exist on the system, the command creates it. If it did already exist with different content from ThisFile.txt, it will be overwritten by the contents of ThisFile.txt.
+  
 rm: remove. Deletes files and directories from the system.
   rm ThisDirectory/ ---> deletes ThisDirectory from the system.
+  
 history: Displays history of all commands user has done.
   history (example output): 59 rm ThisDirectory/ || 58 mv ThisFile.txt ThatFile.txt ---> shows all commands the user has done.
+  
 Home directory and ~: Starting directories for systems. Helps manage separate files and directories.
   / ---> the forward slash indicates it is the root directory. It is the beginning of every absolute path in the system.
   ~ ---> the tilde indicates that it is the beginning of the user account. The root takes precedence in absolute paths.
+  
 file paths in linux: Navigation of the system. Absolute paths display your current directory from your root, and relative paths display your destination directory from your current directory.
   /Users/Adam/Documents/Work ---> example file path. Starting from the root directory, going all the way down to the user's current working directory.
+  
 Using the tab key to complete file paths: Autocomplete for files and directories. If the first three letters of a file or directory are typed in and do not match anything else in the directory, hitting tab will autocomplete the name of the file or directory.
   cd Doc ---> if there is no other current directory starting with "Doc," hitting tab will autocomplete the line to Documents/.
+  
 Using up and down arrow for history: Navigation of all commands user has done. Shortcut for users who do not want to retype a certain command they have already done.
   cp ThisFile.txt ThatFile.txt 
   *user hits up arrow key*
@@ -31,12 +40,14 @@ Using up and down arrow for history: Navigation of all commands user has done. S
    
 vi: mouse-less text editor with its own commands for creating text.
   vi ThisFile.txt ---> either creates ThisFile.txt if it doesn't exist, or enters the file for editing if it does exist.
+  
 command mode: the default mode when entering a file with vi. Uses a whole host of commands for editing and navigating a file.
   i ---> typing the "i" key will switch the user from command mode to insert mode (done right as the key is hit, so the actual letter "i" will not show up from command mode).
   dd ---> delete a line.
   yy ---> copy a line.
   /*** ---> anything typed after the forward slash will act as a text finder for the specified word or phrase (asterisks are placeholders).
   :wq ---> when typed in command mode, vi will write the file to the system and subsequently quit the vi UI.
+  
 insert mode: used for writing to files and making edits directly in the text.
   *user types the "i" key from command mode to change into insert mode*
   One small step for man, one giant leap for mankind (example input) ---> typing into the file and creating the text/content of the file with the keyboard.
