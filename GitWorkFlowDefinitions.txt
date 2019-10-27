@@ -14,7 +14,7 @@ Checkout: a git command that switches between branches.
 
 Push: 
 
-Pull: 
+Pull: a git command that updates a local version of a repository from a remote version.
 
 Remote Add / Remove / Show: 
 
