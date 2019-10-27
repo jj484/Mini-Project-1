@@ -1,5 +1,9 @@
 For this project, you need to explain how the usage of Git, Docker, automated testing, and continuous integration can improve the productivity and competitiveness of a company. 
-Git:
+Git: The usage of git can greatly improve the productivity and competitiveness of a company by allowing users of git to
+manage software versions. This alone can help streamline development amongst many developers by allowing changes to be 
+made concurrently and merged or discarded at a later date at the discresion of the manager of the repository. This overall
+would allow the company to reiterate on more ideas at the same time in order to find a solution to a problem faster than
+companies that do not use Git. 
 Docker:
 Automated testing:
 continuous integration:
