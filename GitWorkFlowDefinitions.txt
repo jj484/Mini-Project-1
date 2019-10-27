@@ -18,7 +18,7 @@ Pull: a git command that updates a local version of a repository from a remote v
 
 Remote Add / Remove / Show: 
 
-Status: 
+Status: a git command that displays the current state of the working directory.  
 
 Master Branch: the main and default branch in a github project. 
 
