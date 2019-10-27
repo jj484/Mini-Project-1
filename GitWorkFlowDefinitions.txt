@@ -6,7 +6,8 @@ Fork: a copy of a repository that does not affect the original project repositor
 
 Branch: a git command that creates a new branch within a git project. 
 
-Commit: a change to a file/files in a repository.
+Commit: a git command that saves all changes made and is accompanied by a message.
+Usage: git commit -m "<message>"
 
 Merge: a git command that combines a forked history back into a single history.
 
@@ -19,6 +20,7 @@ Pull: a git command that updates a local version of a repository from a remote v
 Remote Add / Remove / Show: a git command that allows one to manage remote git repositories.
 
 Status: a git command that displays the current state of the working directory.  
+Usage: git status
 
 Master Branch: the main and default branch in a github project. 
 
