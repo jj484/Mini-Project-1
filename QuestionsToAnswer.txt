@@ -1,7 +1,7 @@
 Questions to answer: What is it? Why do you do it? How do you do it?
 
 cd: change directory. Used for navigating your file system. 
-mkdir
+mkdir: make directory. Creates folders for holding files directly from command line.
 cp
 pwd
 mv
