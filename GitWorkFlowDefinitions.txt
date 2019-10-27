@@ -10,7 +10,7 @@ Commit: a change to a file/files in a repository.
 
 Merge: a git command that combines a forked history back into a single history.
 
-Checkout: 
+Checkout: a git command that switches between branches. 
 
 Push: 
 
