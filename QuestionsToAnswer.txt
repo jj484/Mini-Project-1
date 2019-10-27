@@ -20,4 +20,5 @@ Home directory and ~: Starting directories for systems. Helps manage separate fi
 file paths in linux: Navigation of the system. Absolute paths display your current directory from your root, and relative paths display your destination directory from your current directory.
   /Users/Adam/Documents/Work ---> example file path. Starting from the root directory, going all the way down to the user's current working directory.
 Using the tab key to complete file paths: Autocomplete for files and directories. If the first three letters of a file or directory are typed in and do not match anything else in the directory, hitting tab will autocomplete the name of the file or directory.
+  cd Doc ---> if there is no other current directory starting with "Doc," hitting tab will autocomplete the line to Documents/.
 Using up and down arrow for history: Navigation of all commands user has done. Shortcut for users who do not want to retype a certain command they have already done.
