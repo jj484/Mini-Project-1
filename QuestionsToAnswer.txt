@@ -1,6 +1,6 @@
 Questions to answer: What is it? Why do you do it? How do you do it?
 
-cd
+cd: change directory. Used for navigating your file system. 
 mkdir
 cp
 pwd
