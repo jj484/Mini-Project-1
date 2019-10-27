@@ -3,6 +3,7 @@ Questions to answer: What is it? Why do you do it? How do you do it?
 cd: change directory. Used for navigating your file system. 
   cd Documents/Work ---> moves you to the Documents directory, which then moves you to the Work directory.
 mkdir: make directory. Creates folders for holding files directly from command line.
+  mkdir New ---> creates a new directory called New in your current directory.
 cp: copy. Copies files and directories while remaining independent of the original file.
 pwd: print working directory. Displays the absolute path of the directory the user is currently in.
 mv: move. Moves files and directories to another area of the system.
