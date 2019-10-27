@@ -10,8 +10,10 @@ Commit: a git command that saves all changes made and is accompanied by a messag
 Usage: git commit -m "<message>"
 
 Merge: a git command that combines a forked history back into a single history.
+Usage:
 
 Checkout: a git command that switches between branches. 
+Usage: 
 
 Push: a git command that updates a remote version of a repository from a local version
 Usage: git push <repository-name> <branch-name>
