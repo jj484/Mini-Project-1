@@ -16,7 +16,7 @@ Push: a git command that updates a remote version of a repository from a local v
 
 Pull: a git command that updates a local version of a repository from a remote version.
 
-Remote Add / Remove / Show: 
+Remote Add / Remove / Show: a git command that allows one to manage remote git repositories.
 
 Status: a git command that displays the current state of the working directory.  
 
